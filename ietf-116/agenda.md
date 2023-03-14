@@ -5,8 +5,6 @@ Room: G314-G315
 
 ## AGENDA:
 
-SCRATCH-PAD AGENDA -- NOT FINAL
-
 - 5m - Chair Introduction (Wes)
     - note takers
     - IETF document process reminders
